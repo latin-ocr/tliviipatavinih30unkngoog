@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih30unkngoog_0150.png"; bbox 0 0 3267 5250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1254 2375 2612 2556">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1254 2375 2612 2556">
+     <span class='ocr_line' id='line_1_1' title="bbox 1254 2375 2612 2448; baseline 0.001 -16"><span class='ocrx_word' id='word_1_1' title='bbox 1254 2379 1359 2432; x_wconf 73' lang='lat' dir='ltr'>Ex</span> <span class='ocrx_word' id='word_1_2' title='bbox 1406 2377 1776 2431; x_wconf 78' lang='lat' dir='ltr'>EDITIONE</span> <span class='ocrx_word' id='word_1_3' title='bbox 1826 2375 2612 2448; x_wconf 75' lang='lat' dir='ltr'>DRAKENBORCHIANA,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1400 2473 2465 2556; baseline 0.002 -2"><span class='ocrx_word' id='word_1_4' title='bbox 1400 2473 1583 2556; x_wconf 50' lang='lat' dir='ltr'><strong>ladon.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1604 2503 1744 2556; x_wconf 74' lang='lat' dir='ltr'><strong>Bu·-</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1765 2515 1835 2554; x_wconf 73' lang='lat' dir='ltr'>n·</span> <span class='ocrx_word' id='word_1_7' title='bbox 1854 2501 2102 2556; x_wconf 67' lang='lat' dir='ltr'>Anu-11..</span> <span class='ocrx_word' id='word_1_8' title='bbox 2123 2507 2465 2556; x_wconf 66' lang='lat' dir='ltr'>rna—lue.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
